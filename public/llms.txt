@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+סטודיו פילאטיס בוטיק בירושלים עם אווירה חמה וביתית. אימונים בקבוצות קטנות ואישיות, פילאטיס מכשירים ומזרן, לכל גיל ורמה. הצטרפי אלינו והרגישי את השינוי!
+
+### שירותים
+https://example.com/services
+פילאטיס מכשירים, פילאטיס מזרן, שיעורים שיקומיים ואימונים לגיל הזהב — כל השירותים שלנו מותאמים אישית בקבוצות קטנות ואינטימיות. גלי מה מחכה לך בסטודיו.
+
+### אודות
+https://example.com/about
+כוכי מובילה סטודיו פילאטיס בוטיק בירושלים עם לב גדול וידע מקצועי עמוק. גלי את הסיפור מאחורי הסטודיו האינטימי שמרגיש כמו בית, ולמה מאות נשים בוחרות בנו שוב ושוב.
+
+### צור קשר
+https://example.com/contact
+רוצה לשריין מקום בסטודיו הפילאטיס הכי חמים בירושלים? צרי קשר עכשיו לתיאום שיעור ניסיון, שאלות על אימונים בקבוצות קטנות, או כל פרט שתרצי לדעת. אנחנו כאן בשבילך!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
