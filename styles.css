@@ -2663,10 +2663,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   text-shadow: 0 2px 24px rgba(45, 38, 34, 0.55), 0 1px 4px rgba(45, 38, 34, 0.4);
 }
 
-/* Subtitle */
 .index-hero-section .index-hero-subtitle {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.05rem;
+  font-size: 1.35rem;
   font-weight: 400;
   line-height: 1.75;
   color: rgba(246, 241, 234, 0.88) !important;
@@ -2791,9 +2790,9 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
   }
 
   .index-hero-section .index-hero-subtitle {
-    font-size: 0.95rem;
-    line-height: 1.7;
-  }
+  font-size: 1.15rem;
+  line-height: 1.7;
+}
 
   .index-hero-section .index-hero-ctas {
     gap: 12px;
